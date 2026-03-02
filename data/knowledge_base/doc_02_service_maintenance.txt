@@ -1,0 +1,23 @@
+Title: Service Intervals & Maintenance
+Category: After-Sales Service
+
+Our vehicles use a Condition Based Service (CBS) system that monitors key components and calculates individual service intervals based on actual driving conditions.
+
+Standard Service Schedule:
+- Engine Oil Service: Every 15,000 km or 12 months (whichever comes first)
+- Comprehensive Vehicle Inspection: Every 30,000 km or 24 months
+- Brake Fluid: Every 2 years regardless of mileage
+- Spark Plugs (gasoline engines): Every 60,000 km
+- Air Filter: Every 40,000 km
+- Cabin Air Filter: Every 20,000 km or annually
+
+Electric Vehicles:
+- Annual vehicle check recommended
+- Brake fluid every 2 years
+- No engine oil changes required
+- Battery health check included in annual inspection
+- Service intervals are significantly longer due to fewer moving parts
+
+The CBS system displays remaining service life in the vehicle's infotainment system and the companion mobile app. Customers receive automatic notifications when service is approaching.
+
+Pre-paid maintenance packages are available covering 3, 4, or 5 years.
